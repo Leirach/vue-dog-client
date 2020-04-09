@@ -1,9 +1,9 @@
-.border-heavy{
-  border: 2px solid !important;
+.img-container {
+  padding: 10px;
+  max-height: 90vh;
 }
 
 .dog-img {
-  width: auto;
-  overflow: auto;
-  padding: 10px;
+  object-fit: scale-down;
+  max-width: 100%;
 }
