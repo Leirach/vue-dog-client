@@ -2,7 +2,7 @@ new Vue({
     el: '#vueapp',
     data: {
         title: "Dog API Client",
-        subtitle: "By Juan Carlos De León",
+        subtitle: "By Juan Carlos De León. All images taken from https://dog.ceo/dog-api/",
         imgURL: "",
         btnText: "Another Dog!",
         loading: false,
